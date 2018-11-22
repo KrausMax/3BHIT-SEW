@@ -16,8 +16,8 @@ public class PrintSorted {
         System.out.println("Original Werte: " + gzSet);
         System.out.println("----------------------------------------------------------------------------------");
         System.out.print("Mit 10 multiplizierte Werte: ");
-        //2. Teil der Ausgabe gibt die mit 10 multiplizierten Nummern sortiert aus
-        for (int element : gzSet) {
+
+        for (int element : gzSet) {                                     //2. Teil der Ausgabe gibt die mit 10 multiplizierten Nummern sortiert aus
             System.out.print(element * 10 + ", ");
         }
 
