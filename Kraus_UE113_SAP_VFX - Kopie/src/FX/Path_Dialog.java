@@ -8,7 +8,7 @@ import java.util.Optional;
 public class Path_Dialog {
 
     public static String getPath(String name) {
-        TextInputDialog dialog = new TextInputDialog("MyPath/MyFile.csv");
+        TextInputDialog dialog = new TextInputDialog("MyFile.csv");
         dialog.setTitle("Pfadeingabe");
         dialog.setHeaderText("Pfadeingabe für " + name);
         dialog.setContentText("Bitte geben Sie den gewünschten Pfad an:");
