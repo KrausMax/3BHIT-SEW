@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE2_Cho_Han/main.c
+stdio.h
+-
+mem.h
+-
+time.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
