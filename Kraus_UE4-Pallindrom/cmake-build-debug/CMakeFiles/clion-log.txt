@@ -1,0 +1,4 @@
+"E:\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Schule\3. Klasse\SEW\C\Uebungen_c\Kraus_UE4-Pallindrom"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE4-Pallindrom/cmake-build-debug

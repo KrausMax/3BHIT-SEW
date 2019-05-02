@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE4-Pallindrom/main.c
+stdlib.h
+-
+stdio.h
+-
+palindrom.h
+E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE4-Pallindrom/palindrom.h
+
+E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE4-Pallindrom/palindrom.h
+stdio.h
+-
+
