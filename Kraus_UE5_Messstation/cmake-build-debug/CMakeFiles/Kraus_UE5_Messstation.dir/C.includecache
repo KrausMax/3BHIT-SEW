@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Schule/3. Klasse/SEW/C/Uebungen_c/Kraus_UE5_Messstation/main.c
+time.h
+-
+stdlib.h
+-
+stdio.h
+-
+
